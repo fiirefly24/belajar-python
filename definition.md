@@ -9,6 +9,10 @@
     Type Casting is the process of converting a variable from one data type to another
     e.g., str(), int(), float(), bool()
 
+## Input Data
+    input() is a function that prompts the user to enter data
+    Returns the entered data as a String
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
@@ -16,3 +20,6 @@
 
 ## str to int
     if the string contains non-numerical characters, it will not be converted to an integer.
+
+## operation float and int
+     it is possible to multiply a float by an integer in math. When a float is multiplied by an integer, the result is a float.
