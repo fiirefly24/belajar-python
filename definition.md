@@ -22,4 +22,7 @@
     if the string contains non-numerical characters, it will not be converted to an integer.
 
 ## operation float and int
-     it is possible to multiply a float by an integer in math. When a float is multiplied by an integer, the result is a float.
+    it is possible to multiply a float by an integer in math. When a float is multiplied by an integer, the result is a float.
+
+## Import Math
+    import module, making its functions and constants available for use
