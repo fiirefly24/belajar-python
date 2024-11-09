@@ -13,6 +13,10 @@
     input() is a function that prompts the user to enter data
     Returns the entered data as a String
 
+## if
+    Do some code only IF some condition is True
+    Else do something else
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
@@ -26,3 +30,7 @@
 
 ## Import Math
     import module, making its functions and constants available for use
+
+## uses of equals
+    a single equals sign (=) is used for assignment value
+    a double equals sign (==) is used for equality comparison.
