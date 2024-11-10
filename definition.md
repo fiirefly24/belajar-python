@@ -35,6 +35,19 @@
     accessing elements of a sequence using [] (indexing operator)
     [start:end:step]
 
+## Format Specifiers
+    {:flags} format a value based on what flags are inserted
+        .(number)f = round to that many decimal places (fixed point)
+        :(number) = allocate that many spaces
+        :03 = allocate and zero pad that many spaces
+        :< = justify left
+        :> = justify right
+        :^ = justify center
+        :+ = use a plus sign to indicate positive value
+        := = place sign to leftmost position
+        :  = insert a space before positive numbers
+        :, = comma separator
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
