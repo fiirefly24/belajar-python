@@ -47,6 +47,8 @@
         := = place sign to leftmost position
         :  = insert a space before positive numbers
         :, = comma separator
+## While Loop
+    Execute some code WHILE some condition remains true
 
 # ANY TIPS
 ## print(f{variable})
