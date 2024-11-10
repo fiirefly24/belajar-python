@@ -185,4 +185,13 @@
     # credit_card = "1234-5678-9012-3456"
     # for x in credit_card:
     #     print(x)
+
+# NESTED LOOPS
+    # rows = int(input("Enter Rows: "))
+    # cols = int(input("Enter cols: "))
+    # symbol = input("Enter Symbol to use")
+    # for x in range(rows):
+    #     for y in range(cols):
+    #         print(symbol, end="")
+    #     print()
 ################  MAIN CODE   #################

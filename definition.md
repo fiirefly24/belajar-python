@@ -54,6 +54,11 @@
     Execute a block of code a fixed number of times.
     You can interate over a range, string, sequence, etc.
 
+## Nested Loop
+    A loop within another loop (outer, inner)
+        outer loop:
+            inner loop:
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
