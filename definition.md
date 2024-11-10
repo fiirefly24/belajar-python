@@ -28,6 +28,9 @@
     Print or assign one of two values based on a condition
     X if condition else Y
 
+## String Method
+    Built-in functions that allow you to perform various operations on strings
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
@@ -45,3 +48,6 @@
 ## uses of equals
     a single equals sign (=) is used for assignment value
     a double equals sign (==) is used for equality comparison.
+
+## str.find() not found
+    if the substring is not found, whereas find() just returns -1.
