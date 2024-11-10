@@ -180,4 +180,9 @@
     #     print(f"{num} is not valid")
     #     num = int(input("Enter a $ between 1 - 10: "))
     # print(f"your number is {num}")
+
+# FOR LOOPS
+    # credit_card = "1234-5678-9012-3456"
+    # for x in credit_card:
+    #     print(x)
 ################  MAIN CODE   #################

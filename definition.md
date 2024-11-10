@@ -50,6 +50,10 @@
 ## While Loop
     Execute some code WHILE some condition remains true
 
+## For loops
+    Execute a block of code a fixed number of times.
+    You can interate over a range, string, sequence, etc.
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
