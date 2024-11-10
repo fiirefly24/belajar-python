@@ -17,6 +17,12 @@
     Do some code only IF some condition is True
     Else do something else
 
+## Logical Operators
+    Evaluate multiple conditions (or, and, not)
+    or = at least one condition must be true
+    and = both condistion must be true
+    not = inverts the condition (not false, not true)
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
