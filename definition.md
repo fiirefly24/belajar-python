@@ -59,6 +59,12 @@
         outer loop:
             inner loop:
 
+## Collection
+    single variable used to store multiple values
+        List    = [] ordered and changeable. Duplicates Ok
+        Set     = {} unordered and immutable, but Add/remove OK.
+        Tuple   = () ordered and unchangeable. Duplicates Ok. Faster
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
@@ -79,3 +85,6 @@
 
 ## str.find() not found
     if the substring is not found, whereas find() just returns -1.
+
+## use help
+    use help() or dir() to shows help of what attributes and what can the syntax do.
