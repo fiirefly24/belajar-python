@@ -65,6 +65,9 @@
         Set     = {} unordered and immutable, but Add/remove OK.
         Tuple   = () ordered and unchangeable. Duplicates Ok. Faster
 
+## 2D Collection
+    Is a collection that's made up of collections
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
