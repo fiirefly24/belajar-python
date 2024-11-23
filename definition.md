@@ -68,6 +68,10 @@
 ## 2D Collection
     Is a collection that's made up of collections
 
+## Dictionary
+    A collection of {key:value} pairs ordered and changeable.
+    No duplicates
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
