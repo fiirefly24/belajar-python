@@ -72,6 +72,10 @@
     A collection of {key:value} pairs ordered and changeable.
     No duplicates
 
+## Function
+    A block of reusable code
+    place () after the function name to invoke it
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
@@ -95,3 +99,9 @@
 
 ## use help
     use help() or dir() to shows help of what attributes and what can the syntax do.
+
+## argument(s)
+    when you define a function, you can also to put argument into that function, e.g. birthday(age), age is the argument, it can pass data/value into the function to be processed later.
+
+## return 
+    statement used to end a function and send a result back to the caller
