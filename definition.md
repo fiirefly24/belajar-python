@@ -80,6 +80,9 @@
     A default value for certain parameters default is used when that argument is omitted make your functions more flexible, reduces # of arguments.
     1. Positional, 2. DEFAULT, 3. Keyword, 4. Arbitary
 
+## Keyword Arguments
+    An argument preceded by an identifier helps with readability, order of arguments is doesn't matter
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
