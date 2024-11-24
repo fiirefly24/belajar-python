@@ -76,6 +76,10 @@
     A block of reusable code
     place () after the function name to invoke it
 
+## Default Arguments
+    A default value for certain parameters default is used when that argument is omitted make your functions more flexible, reduces # of arguments.
+    1. Positional, 2. DEFAULT, 3. Keyword, 4. Arbitary
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
