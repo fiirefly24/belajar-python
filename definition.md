@@ -87,6 +87,10 @@
     *args allows you to pass multiple non-key arguments
     **kwargs allows you to pass multiple keyword arguments
 
+## Iterables
+    An object/collection that can return its elements one at a time, allowing it to be iterated over in a loop
+    e.g. tuple, list, set, dictionary
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
