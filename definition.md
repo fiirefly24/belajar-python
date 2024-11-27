@@ -91,6 +91,11 @@
     An object/collection that can return its elements one at a time, allowing it to be iterated over in a loop
     e.g. tuple, list, set, dictionary
 
+##  Membership operators
+    Used to test whether a value or variable is found in a sequence (String, list, tuple, set or dictionary)
+    1. in
+    2. not in
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
