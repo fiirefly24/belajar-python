@@ -96,6 +96,10 @@
     1. in
     2. not in
 
+## List comprehension
+    A concise way to create lists in Python compact and easier to read than traditional loops.
+    [expression for value in interable if condition]
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
