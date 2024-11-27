@@ -83,6 +83,10 @@
 ## Keyword Arguments
     An argument preceded by an identifier helps with readability, order of arguments is doesn't matter
 
+## args & kwargs
+    *args allows you to pass multiple non-key arguments
+    **kwargs allows you to pass multiple keyword arguments
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
