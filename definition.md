@@ -105,6 +105,9 @@
     Execute some code if a value matches a 'case'
     Benefits: cleaner and syntax is more readable
 
+## Module
+    A file containing code you want to include in your program use 'import' to include a module (built-in or your own) useful to break up a large program reusable separate files
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
