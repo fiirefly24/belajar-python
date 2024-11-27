@@ -100,6 +100,11 @@
     A concise way to create lists in Python compact and easier to read than traditional loops.
     [expression for value in interable if condition]
 
+## Match-case statement (switch)
+    An alternative to using many 'elif' statements.
+    Execute some code if a value matches a 'case'
+    Benefits: cleaner and syntax is more readable
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
