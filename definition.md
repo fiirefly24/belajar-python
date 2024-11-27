@@ -108,6 +108,11 @@
 ## Module
     A file containing code you want to include in your program use 'import' to include a module (built-in or your own) useful to break up a large program reusable separate files
 
+## Variable scope
+    Where a variable is visible and accessible
+    Scope resolution (LEGB)
+    1. Local 2. Enclosed 3. Global 4. Built-in
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
@@ -137,3 +142,19 @@
 
 ## return 
     statement used to end a function and send a result back to the caller
+
+## Local Variable
+    Variables defined inside a function or a block.
+    These variables are only accessible within that specific function or block.
+
+## Enclosing Scope
+    Variables in the local scope of enclosing functions (when nested functions are used).
+    If a variable is not found in the local scope, Python looks for it in the enclosing function’s scope.
+
+## Global Scope
+    Variables defined at the top level of a script or module, outside all functions and classes.
+    Accessible throughout the module but not inside other modules unless explicitly imported.
+
+## Built-in Scope
+    Contains Python’s built-in names such as len, range, and print.
+    These are always available unless shadowed by variables in other scopes.
