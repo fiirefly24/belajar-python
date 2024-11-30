@@ -117,7 +117,9 @@
     A bundel of related attributes (variables) and methods (functions)
     Need a "class" to create many objects
 ### Class
-    (Blueprint) used to design the structure and layout of an object m
+    (Blueprint) used to design the structure and layout of an object.
+### Class variables
+    Shared among all instances of a class. Defined outside the constructor. Allow you to share data among all objects created from that class.
 
 # ANY TIPS
 ## print(f{variable})
