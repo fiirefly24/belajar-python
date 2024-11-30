@@ -113,6 +113,12 @@
     Scope resolution (LEGB)
     1. Local 2. Enclosed 3. Global 4. Built-in
 
+## OOP (Object-Oriented Programming)
+    A bundel of related attributes (variables) and methods (functions)
+    Need a "class" to create many objects
+### Class
+    (Blueprint) used to design the structure and layout of an object m
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
