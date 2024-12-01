@@ -123,6 +123,10 @@
 ### Inheritance
     Allows a class to inherit attributes and methods from another class. Helps with code reusability and extensibility.
     class child(parent)
+### Multiple Inheritance
+    Inherit from more than one parent class. child(parent, parent)
+### Multilevel Inheritance
+    Inherit from a parent which inherits from another parent. child(parent) <- parent(the_parent_of_the_parent) <- the_parent_of_the_parent
 
 # ANY TIPS
 ## print(f{variable})
@@ -169,3 +173,6 @@
 ## Built-in Scope
     Contains Python’s built-in names such as len, range, and print.
     These are always available unless shadowed by variables in other scopes.
+
+## __init__
+    While inherit, if you want to have some logic with parent variable, do __init__ first, but if you just want to use the variable as string, you dont have to __init__
