@@ -142,6 +142,10 @@
     Method that allow operations related to the class itself. It take (cls) as the first parameter, which represents the class itself.
     Best for class-level data or require access to the class itself.
 
+## Magic Methods
+    or Dunder methods (double underscore) __init__, __str__, __eq__. They are automatically called by many of Python's built-in operations.
+    They allow developers to define or customize the behavior of objects.
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
