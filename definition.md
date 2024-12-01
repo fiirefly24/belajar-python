@@ -129,6 +129,8 @@
     Inherit from a parent which inherits from another parent. child(parent) <- parent(the_parent_of_the_parent) <- the_parent_of_the_parent
 #### super()
     Function used in  a child class to call methods from a parent class (superclass). Allows you to extend the functionality of the inherited methods.
+### Polymorphism
+    The ability of different objects to be used interchangeably. It allows methods to behave differently based on the object calling them.
 
 # ANY TIPS
 ## print(f{variable})
