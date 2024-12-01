@@ -120,6 +120,9 @@
     (Blueprint) used to design the structure and layout of an object.
 ### Class variables
     Shared among all instances of a class. Defined outside the constructor. Allow you to share data among all objects created from that class.
+### Inheritance
+    Allows a class to inherit attributes and methods from another class. Helps with code reusability and extensibility.
+    class child(parent)
 
 # ANY TIPS
 ## print(f{variable})
