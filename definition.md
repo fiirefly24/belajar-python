@@ -127,6 +127,8 @@
     Inherit from more than one parent class. child(parent, parent)
 ### Multilevel Inheritance
     Inherit from a parent which inherits from another parent. child(parent) <- parent(the_parent_of_the_parent) <- the_parent_of_the_parent
+#### super()
+    Function used in  a child class to call methods from a parent class (superclass). Allows you to extend the functionality of the inherited methods.
 
 # ANY TIPS
 ## print(f{variable})
