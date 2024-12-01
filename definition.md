@@ -134,6 +134,10 @@
 #### Duck Typing
     Type or class of an object is less important than the methods and properties that the object has. If an object can perform the required operations, it is considered suitable for use, regardless of its type.
 
+## Static Methods
+    A method that belong to a class rather than any object from that class (instance). Usually used for general utility functions.
+    Best for utility functions that do not need access to class data.
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
