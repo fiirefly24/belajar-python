@@ -131,6 +131,8 @@
     Function used in  a child class to call methods from a parent class (superclass). Allows you to extend the functionality of the inherited methods.
 ### Polymorphism
     The ability of different objects to be used interchangeably. It allows methods to behave differently based on the object calling them.
+#### Duck Typing
+    Type or class of an object is less important than the methods and properties that the object has. If an object can perform the required operations, it is considered suitable for use, regardless of its type.
 
 # ANY TIPS
 ## print(f{variable})
