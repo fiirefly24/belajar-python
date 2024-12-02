@@ -146,6 +146,10 @@
     or Dunder methods (double underscore) __init__, __str__, __eq__. They are automatically called by many of Python's built-in operations.
     They allow developers to define or customize the behavior of objects.
 
+## @property
+    Decorator used to define a method as a property (it can be accsessed like an attribute). The benefit is add additional logic when read, write, or delete attributes.
+    Give you getterm setter and deleter method.
+
 # ANY TIPS
 ## print(f{variable})
     use f in print so we can call the variable inside the quotes.
